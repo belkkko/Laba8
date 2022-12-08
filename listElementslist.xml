@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="19" class="java.beans.XMLDecoder">
+ <object class="XmlCreator">
+  <void property="line1">
+   <string>four</string>
+  </void>
+  <void property="line2">
+   <string>three</string>
+  </void>
+  <void property="line3">
+   <string>two</string>
+  </void>
+  <void property="line4">
+   <string>one</string>
+  </void>
+ </object>
+</java>
